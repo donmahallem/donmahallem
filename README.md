@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1 align= "center"><b>Hi there 👋</b></h1>
+<p align="center"><img width=50% src="https://media.giphy.com/media/SFK0oEtuU9eGRuRrPz/giphy.gif"></p>
+<h2 align= "center"><tt>Most of the stuff around here was out of curiosity or to automate a chore.</tt></h2>
 
+Hobbies:
+- 👨‍💻 Programming
+- 📷 Fotography
+- 🎨 3D-Art (Blender)
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=DonMahallem&show_icons=true)
 <!--
 **donmahallem/donmahallem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
