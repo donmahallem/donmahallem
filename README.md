@@ -7,8 +7,10 @@ Hobbies:
 - 📷 Fotography
 - 🎨 3D-Art (Blender)
 
+<p align='center'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonMahallem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+</p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=DonMahallem&show_icons=true)
 <!--
 **donmahallem/donmahallem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
