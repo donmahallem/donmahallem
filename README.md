@@ -11,6 +11,16 @@ Hobbies:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonMahallem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
 </p>
 
+- 🔭 I’m currently working on:
+  - [Manniwatch](https://manniwatch.github.io) - Watch Kiels ÖPNV Live
+  - [Colab Blender Render](https://github.com/donmahallem/colab_blender)
+  - [Spielhalle](https://spielhalle.github.io) (VERY EARLY ALPHA!)
+- 🌱 I’m currently learning:
+  - Docker
+  - AssemblyScript
+  - Rust
+- ⚡ Fun fact:
+  - I don't intend to break your code… it just keeps on happening
 <!--
 **donmahallem/donmahallem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
