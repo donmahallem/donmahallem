@@ -4,7 +4,7 @@
 
 Hobbies:
 - 👨‍💻 Programming
-- 📷 Fotography
+- 🖨  3D Printing
 - 🎨 3D-Art (Blender)
 
 <p align='center'>
@@ -14,7 +14,6 @@ Hobbies:
 - 🔭 I’m currently working on:
   - [Manniwatch](https://manniwatch.github.io) - Watch Kiels ÖPNV Live
   - [Colab Blender Render](https://github.com/donmahallem/colab_blender)
-  - [Spielhalle](https://spielhalle.github.io) (VERY EARLY ALPHA!)
 - 🌱 I’m currently learning:
   - Docker
   - AssemblyScript
