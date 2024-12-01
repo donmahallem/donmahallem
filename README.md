@@ -12,8 +12,7 @@ Hobbies:
 </p>
 
 - 🔭 I’m currently working on:
-  - [Manniwatch](https://manniwatch.github.io) - Watch Kiels ÖPNV Live
-  - [Colab Blender Render](https://github.com/donmahallem/colab_blender)
+  - Mainly 3D-Printing stuff K3, Vorons and Klipper
 - 🌱 I’m currently learning:
   - Docker
   - AssemblyScript
