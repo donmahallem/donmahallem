@@ -12,13 +12,13 @@ Hobbies:
 </p>
 
 - 🔭 I’m currently working on:
-  - Mainly 3D-Printing stuff K3, Vorons and Klipper
+  - Mainly 3D-Printing stuff... K3, Vorons and Klipper
 - 🌱 I’m currently learning:
   - Docker
   - AssemblyScript
   - Rust
 - ⚡ Fun fact:
-  - I don't intend to break your code… it just keeps on happening
+  - I don't intend to break your stuff… it just keeps on happening
 <!--
 **donmahallem/donmahallem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
